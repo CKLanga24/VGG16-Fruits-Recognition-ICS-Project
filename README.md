@@ -50,6 +50,11 @@ Input Image (224×224×3)
 → Predicted Fruit Class
 
 ### Final Result ###
-Test Accuracy: 0.9810820817947388 (98.108 %)
-Test Loss: 0.04125632345676422
-Training time : 12 hours (Approximate)
+→ Test Accuracy: 0.9810820817947388 (98.108 %)
+→ Test Loss: 0.04125632345676422
+→ Training time : 12 hours (Approximate)
+
+
+
+
+
