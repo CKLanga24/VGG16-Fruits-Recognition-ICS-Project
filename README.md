@@ -54,6 +54,9 @@ Input Image (224×224×3)
   * Test Loss: 0.04125632345676422
   * Training time : 12 hours (Approximate)
 
+### Conclusion ###
+  The high accuracy was achieved due to the large dataset, clear visual differences between fruit classes, and the use of transfer learning with VGG16. Training for 5 epochs was sufficient for the model to learn the relevant features.
+
 
 
 
