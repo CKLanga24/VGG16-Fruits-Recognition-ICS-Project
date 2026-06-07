@@ -2,17 +2,17 @@ VGG16-Fruits-Recognition-ICS-Project
 
 ### Contribution of Team Members ###
 
-CK LANGA
+CK LANGA [AD25B1008]
 
 * Dataset preparation and splitting (70% train, 15% validation, 15% test).
 * VGG16 model setup and coding.
 * GitHub repository creation and management.
 
-Aryan Kumar
+Aryan Kumar [CS25B1008]
 
 * Creating and Implimenting Custom loss function.
 
-Mohit Kumar
+Mohit Kumar [AD25B1020]
 
 * Model training on 15 fruit classes (5 epochs per training run).
 * Result generation and reporting.
